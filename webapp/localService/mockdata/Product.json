@@ -1,0 +1,138 @@
+[
+	{
+		"ProductId": "Atta-001",
+		"Category": "AT",
+		"MainCategory": "Grocery",
+		"SupplierName": "Aashirvad",
+		"Weight": "5",
+		"WeightUnit": "KG",
+		"ShortDescription": "5 Kg packet of Aashirvad Atta!",
+		"Name": "Aashirvad Atta",
+		"PictureUrl": "ShoppingCart/img/ashirwad-atta.png",
+		"Status": "A",
+		"Price": "150",
+		"CurrencyCode": "INR"
+
+	},
+	{
+		"ProductId": "Atta-002",
+		"Category": "AT",
+		"MainCategory": "Grocery",
+		"SupplierName": "Asarfy Gold",
+		"Weight": "5",
+		"WeightUnit": "KG",
+		"ShortDescription": "5 Kg packet of Asarfy Gold Atta!",
+		"Name": "Asarfy Gold Atta",
+		"PictureUrl": "ShoppingCart/img/asharfi-gold.jpg",
+		"Status": "A",
+		"Price": "140",
+		"CurrencyCode": "INR"
+
+	},
+	{
+		"ProductId": "Atta-003",
+		"Category": "AT",
+		"MainCategory": "Grocery",
+		"SupplierName": "Shakti Bhog",
+		"Weight": "5",
+		"WeightUnit": "KG",
+		"ShortDescription": "5 Kg packet of Shakti Bhog Atta!",
+		"Name": "Shakti Bhog Atta",
+		"PictureUrl": "ShoppingCart/img/shakti-bog.jpg",
+		"Status": "A",
+		"Price": "145",
+		"CurrencyCode": "INR"
+
+	},
+	{
+		"ProductId": "Rice-001",
+		"Category": "RC",
+		"MainCategory": "Grocery",
+		"SupplierName": "India Gate Basmati Rice",
+		"Weight": "5",
+		"WeightUnit": "KG",
+		"ShortDescription": "5 Kg packet of India Gate Basmati Rice!",
+		"Name": "India Gate Basmati Rice",
+		"PictureUrl": "ShoppingCart/img/indiaGateBasmati.jpeg",
+		"Status": "A",
+		"Price": "200",
+		"CurrencyCode": "INR"
+
+	},
+	{
+		"ProductId": "Rice-002",
+		"Category": "RC",
+		"MainCategory": "Grocery",
+		"SupplierName": "India Gate Mini Mogra Rice",
+		"Weight": "5",
+		"WeightUnit": "KG",
+		"ShortDescription": "5 Kg packet of India Gate Basmati Rice!",
+		"Name": "India Gate Mini Mogra Rice",
+		"PictureUrl": "ShoppingCart/img/indiaGateMiniMogra.jpg",
+		"Status": "A",
+		"Price": "300",
+		"CurrencyCode": "INR"
+
+	},
+	{
+		"ProductId": "Rice-003",
+		"Category": "RC",
+		"MainCategory": "Grocery",
+		"SupplierName": "Dawat Rozana Rice",
+		"Weight": "5",
+		"WeightUnit": "KG",
+		"ShortDescription": "5 Kg packet of Dawat Rozana  Rice!",
+		"Name": "Dawat Rozana Rice",
+		"PictureUrl": "ShoppingCart/img/dawatRozana.jpg",
+		"Status": "A",
+		"Price": "250",
+		"CurrencyCode": "INR"
+
+	},
+		{
+		"ProductId": "Rice-004",
+		"Category": "RC",
+		"MainCategory": "Grocery",
+		"SupplierName": "Laal Qilla Basmati Rice",
+		"Weight": "5",
+		"WeightUnit": "KG",
+		"ShortDescription": "5 Kg packet of Laal Qilla Basmati Rice!",
+		"Name": "Laal Qilla Basmati Rice",
+		"PictureUrl": "ShoppingCart/img/lal-qilla-basmati.jpg",
+		"Status": "A",
+		"Price": "380",
+		"CurrencyCode": "INR"
+
+	},
+	{
+		"ProductId": "Veg-001",
+		"Category": "VG",
+		"MainCategory": "Grocery",
+		"SupplierName": "Fresh Potato (Aaloo)",
+		"Weight": "1",
+		"WeightUnit": "KG",
+		"ShortDescription": "Fresh Aaloo of season !",
+		"Name": "Fresh Potato (Aaloo)",
+		"PictureUrl": "ShoppingCart/img/aaloo.jpg",
+		"Status": "A",
+		"Price": "8",
+		"CurrencyCode": "INR"
+
+	},
+	{
+		"ProductId": "Veg-002",
+		"Category": "VG",
+		"MainCategory": "Grocery",
+		"SupplierName": "Fresh Onion (Pyaaj)",
+		"Weight": "1",
+		"WeightUnit": "KG",
+		"ShortDescription": "Fresh Onion of season !",
+		"Name": "Fresh Onion (Pyaaj)",
+		"PictureUrl": "ShoppingCart/img/pyaaj.jpg",
+		"Status": "A",
+		"Price": "20",
+		"CurrencyCode": "INR"
+
+	}
+	
+]

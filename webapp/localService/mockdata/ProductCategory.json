@@ -1,0 +1,19 @@
+[
+	
+	{
+		"CategoryName" : "Atta",
+		"Category" : "AT",
+		"NumberOfProducts" : 3
+	},
+	{
+		"CategoryName" : "Rice",
+		"Category" : "RC",
+		"NumberOfProducts" : 4
+	},
+	{
+		"CategoryName" : "Vegetable",
+		"Category" : "VG",
+		"NumberOfProducts" : 2
+	}
+	
+]
